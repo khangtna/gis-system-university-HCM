@@ -1,0 +1,155 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>GIS HCM</title>
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="{% static '/bootstrap/css/bootstrap.min.css' %}">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+    <div class="container">
+      <a class="navbar-brand" href="/">Bản đồ các trường đại học ở thành phố Hồ Chí Minh</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="">Total: {{geo_code_count}}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+ 
+
+  <!-- Page Content -->
+  <div class="container">
+    <div class="row">
+
+        <div class="col-md-6 form-group">
+          <br></br>
+          <h2>Tìm kiếm theo tên trường</h2>
+        <form method="GET" action="{% url 'home' %}">
+          <input class="form-control" type="text" name="search_query" placeholder="Nhập tên trường">
+          <p></p>
+          <button class="btn btn-primary" type="submit">Tìm kiếm theo tên</button>
+      </form>
+    </div>
+  
+      <div class="col-md-6 form-group">
+        <br></br>
+        <h2>Tìm kiếm theo quận</h2>
+        <form method="GET" action="{% url 'home' %}">
+        <select class="form-control" name="calc_shipping_district" required="">
+          <option value="">Quận</option>  
+        </select>
+        <input class="billing_address_2" name="quanhuyen" type="hidden" value="">
+        <p></p>
+        <button class="btn btn-primary" type="submit">Tìm kiếm theo quận</button>
+      </form>
+    </div>
+
+    <div class="container">
+      <h2>Tìm kiếm theo ngành học</h2>
+      <form method="GET" action="{% url 'home' %}">
+          <select class="form-control" name="majors">
+              <option value="">Chọn chuyên ngành</option>
+              {% for m in majors %}
+                  <option value="{{ m.majors_code }}">{{ m.majors_name }}</option>
+              {% endfor %}
+          </select>
+          <p></p>
+          <button class="btn btn-primary" type="submit">Tìm kiếm theo chuyên ngành</button>
+          <p></p>
+          <label>Chuyên ngành: {{majors_name}}</label>
+          <p></p>
+        </form>
+  </div>
+  
+   
+        {{ my_map|safe }}
+
+        <ul class="list-unstyled">
+          <p></p>
+          <li>Địa chỉ các trường:</li>
+          <li>---------------------</li>
+
+          {% for i in school_detail %}
+
+          <li>{{i.name}}</li>
+          <li>Địa chỉ: {{i.address}}</li>
+          <li>---------------------</li>
+
+          {% endfor %}
+                    
+       </ul>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="{% static '/jquery/jquery.slim.min.js' %}"></script>
+  <script src="{% static '/bootstrap/js/bootstrap.bundle.min.js' %}"></script>
+
+  <!-- The HTML code for the dropdowns and input fields remains the same as in the previous script -->
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/vietblogdao/js/districts.min.js'></script>
+<script>
+//<![CDATA[
+// Assuming the fixed province/city is "Hanoi"
+var fixedProvince = "Thành phố Hồ Chí Minh";
+
+// Function to populate the district dropdown based on the selected province/city
+function populateDistrictDropdown(selectedProvince) {
+  var districtsHtml = '';
+  var index = c.findIndex(function(province) {
+    return province === selectedProvince;
+  });
+
+  if (index !== -1) {
+    arr[index].forEach(function(district) {
+      districtsHtml += '<option value="' + district + '">' + district + '</option>';
+    });
+  }
+
+  $('select[name="calc_shipping_district"]').html('<option value="">Quận / Huyện</option>' + districtsHtml);
+}
+
+$(document).ready(function() {
+  // Set the fixed province/city as selected and disable the province/city dropdown
+  $('select[name="calc_shipping_provinces"]').val(fixedProvince).attr('disabled', true);
+
+  // Populate the district dropdown initially with the districts of the fixed province/city
+  populateDistrictDropdown(fixedProvince);
+
+  // Assuming there is no need to save the selected district in localStorage since the province/city is fixed
+
+  // Event handler for changing the district dropdown (optional, depending on your requirements)
+  $('select[name="calc_shipping_district"]').on('change', function() {
+    var selectedDistrict = $(this).val();
+    $('input.billing_address_2').attr('value', selectedDistrict);
+  });
+});
+//]]></script>
+
+
+</body>
+
+</html>

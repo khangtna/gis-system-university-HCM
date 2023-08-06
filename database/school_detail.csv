@@ -1,0 +1,150 @@
+school_code,name,address,location_name,created_date,update_time,status
+1,Tru?ng d?i h?c an ninh nhân dân,"Km18 XL Hà N?i, Phu?ng Linh Trung, qu?n Th? Ð?c, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+4,Ð?i h?c Bách khoa TP.HCM (ÐHBK),"268 Lý Thu?ng Ki?t, Phu?ng 14, Qu?n 10, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+6,Ð?i h?c Bách khoa TP.HCM (ÐHBK),"Kios 98, 142A  Tô Hi?n Thành, Phu?ng 14, Qu?n 10, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+8,Tru?ng Ð?i h?c Công nghi?p TP.HCM,"12 Nguy?n Van B?o, Phu?ng 4, qu?n Gò V?p, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+9,Tru?ng Ð?i h?c Công nghi?p Th?c ph?m TP.HCM ,"140 Lê Tr?ng T?n, Tây Th?nh, qu?n Tân Phú, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+10,Tru?ng Ð?i h?c Công nghi?p TP.HCM ,"53 Pham Van Chieu, Phu?ng 9, qu?n Gò V?p, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+11,Tru?ng Ð?i h?c Công nghi?p Th?c ph?m TP.HCM - IUH,"s? 20, du?ng 53, Phu?ng 14, qu?n Gò V?p, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+12,Tru?ng Ð?i H?c Công Ngh? Thông Tin - ÐHQGHCM,"du?ng Hàn Thuyên, khu ph? 6 P, qu?n Th? Ð?c, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+13,Tru?ng d?i h?c c?nh sát nhân dân,"179A . Kha V?n Cân, Linh Chi?u, qu?n Th? Ð?c, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+14,Tru?ng Ð?i h?c Giao thông V?n t?i TP.HCM,"02 Võ Oanh, Phu?ng 25, qu?n Bình Th?nh, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+15,Phân hi?u Ð?i h?c Giao thông V?n t?i TP.HCM,"450, 451 Lê Van Vi?t, Tang Nhon Phú A, qu?n Th? Ð?c, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+17,Tru?ng Ð?i h?c Giao thông V?n t?i TP.HCM - Co s? 2,"10  Ð 12, P. Bình An, Qu?n 2, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+18,Tru?ng d?i h?c Khoa h?c t? nhiên - VNUHCM,"227 Ð. Nguy?n Van C?, Phu?ng 4, Qu?n 5, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+19,Tru?ng Ð?i h?c Khoa h?c Xã h?i và Nhân van (HCMUSSH) - Ð?i h?c Qu?c gia TP.HCM,"10-12 d. dinh Tiên Hoàng, B?n Nghé, Qu?n 1, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+20,Tru?ng Ð?i h?c Khoa h?c Xã h?i và Nhân van - Ð?i h?c Qu?c gia TP.HCM,"VRC2+QR9, Khu Ph? 6, qu?n Th? Ð?c, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+21,Ð?i h?c Kinh t? TP.HCM (UEH) - Co s? A,"59C Nguy?n Ðình Chi?u, Phu?ng 6, Qu?n 3, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+22,Ð?i h?c Kinh t? TP.HCM (UEH) - Co s? C,"91C d. 3 Tháng 2, Phu?ng 11, Qu?n 10, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+23,Ð?i h?c Kinh t? TP.HCM (UEH) - Co s? B,"279 Ð. Nguy?n Tri Phuong, Phu?ng 5, Qu?n 10, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+24,Ð?i h?c Kinh t? TP.HCM (UEH) - Co s? E,"54 Ð. Nguy?n Van Th?, Ða Kao, Qu?n 1, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+25,Ð?i h?c Kinh t? TP.HCM (UEH) - Co s? V,"232/6 Ð. Võ Th? Sáu, Qu?n 3, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+26,Ð?i h?c Kinh t? TP.HCM (UEH) - Co s? Nguy?n Van Linh,"Khu Ch?c Nang S? 15, Ðô Th? M?i Nam Thành Ph?, Phong Phú, qu?n Bình Chánh, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+27,Ð?i h?c Kinh t? TP.HCM (UEH) - Co s? H,"1a Hoàng Di?u, Phu?ng 10, qu?n Phú Nhu?n, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+28,Ð?i h?c Kinh t? TP.HCM (UEH) - Co s? D,"96 Ð. Tr?n Quang Kh?i, Phu?ng Tân Ð?nh, Qu?n 1, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+29,Tru?ng d?i H?c Kinh T? Tp.Hcm ,"19 Nguy?n H?u C?nh, Phu?ng 19, qu?n Bình Th?nh, H? Chí Minh, Vietnam, Thành ph? H? Chí Minh.",H? Chí Minh,40:00.0,40:00.0,1
+30,Ð?i h?c Kinh t? qu?c dân - Khu v?c Tp.HCM,"91 Ð. Ký Con, Phu?ng Nguy?n Thái Bình, Qu?n 1, Thành ph? H? Chí Minh 70000",H? Chí Minh,40:00.0,40:00.0,1
+31,"Tru?ng d?i h?c kinh t? - lu?t, d?i h?c qu?c gia HCM","669 QL1A, khu ph? 3, qu?n Th? Ð?c, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+32,Tru?ng Ð?i H?c Kinh T? Tp.Hcm,"236, 2 Ð. Võ Th? Sáu, Qu?n 3, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+33,Tru?ng Ð?i H?c Kinh T? Tp.Hcm,"79 Nguy?n Ðình Chi?u, Phu?ng 6, Qu?n 3, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+34,Tru?ng Ð?i H?c Kinh T? Tp.Hcm,"92 Nguy?n Thái Son, Phu?ng 3, qu?n Gò V?p, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+35,Ð?i h?c ki?n trúc thành ph? h? chí minh,"196 Pasteur, Phu?ng 6, Qu?n 3, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+36,Ð?i h?c Ki?n trúc TP.HCM co s? Th? Ð?c,"48 Ð?ng Van Bi, Bình Th?, Th? Ð?c, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+37,Ð?i h?c ki?n trúc TP.HCM - Ký túc xá," RM3H+XMQ, Lê T? Tài, Phu?ng 4,qu?n Phú Nhu?n, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+38,Ð?i h?c lu?t thành ph? h? chí mình,"2 Nguy?n T?t Thành, Phu?ng 13, Qu?n 4, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+39,Ð?i h?c m? - Campus 1,"97 Võ Van T?n, Phu?ng 6, Qu?n 3, Thành ph? H? Chí Minh 700000",H? Chí Minh,40:00.0,40:00.0,1
+40,Ð?i h?c m?- Campus 2,"7 H? H?o H?n, Phu?ng Cô Giang, Qu?n 1, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+41,Ð?i h?c m? thu?t thành ph? h? chí minh,"5 Phan Ðang Luu, Phu?ng 3, qu?n Bình Th?nh, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+42,Ð?i h?c sài gòn - Campus 2,"4 Ð. Tôn Ð?c Th?ng, B?n Nghé, Qu?n 1, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+43,Tru?ng d?i h?c lao d?ng xã h?i,"1018 Tô Ký, Tân Chánh Hi?p, Qu?n 12, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+44,Tru?ng cao d?ng Kinh T? Ð?i Ngo?i,"81 Ð. Tr?n Bình Tr?ng, Phu?ng 1, Qu?n 5, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+45,Ð?i h?c m? - Campus 4,"2 Ð. Mai Th? L?u, Ða Kao, Qu?n 1, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+46,"Ð?i h?c l?c h?ng, Campus 2","15/3B Hu?nh Van Ngh?, P, Thành ph? Biên Hòa, Ð?ng Nai",H? Chí Minh,40:00.0,40:00.0,1
+47,Tru?ng Ð?i h?c Ngân hàng TP. HCM - Co s? Th? Ð?c,"56 Ð. Hoàng Di?u 2, Linh Chi?u, qu?n Th? Ð?c, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+48,Ð?i h?c ngân hàng,"Linh Chi?u, qu?n Th? Ð?c, Ho Chi Minh City, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+49,Ð?i h?c ngân hàng - Main Campus,"36 Tôn Th?t Ð?m, Phu?ng Nguy?n Thái Bình, Qu?n 1, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+50,C?ng sau Ð?i H?c Ngân Hàng Tp. HCM,"5/9A Ð. Hoàng Di?u 2, Linh Chi?u, qu?n Th? Ð?c, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+51,Tru?ng Ð?i h?c Ngân hàng TP. HCM,"VQ47+Q28, Linh Chi?u, qu?n Th? Ð?c, Ho Chi Minh City, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+52,Ð?i h?c ngân hàng TP.HCM,"39761 Ð. Hoàng Di?u 2, Linh Chi?u, qu?n Th? Ð?c, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+53,Ð?i h?c nông lâm,"VQCR+GP6, Khu Ph? 6, Th? Ð?c, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+54,Tru?ng d?i h?c Sân kh?u -  Ði?n ?nh TP.HCM,"125 Ð. C?ng Qu?nh, Phu?ng Nguy?n Cu Trinh, Qu?n 1, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+55,Tru?ng d?i h?c su ph?m k? thu?t TP.HCM,"01 Võ Van Ngân, Linh Chi?u,qu?n Th? Ð?c, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+56,Khu A Tru?ng d?i h?c su ph?m k? thu?t TP.HCM,"VQ2C+QRJ, Linh Chi?u, qu?n Th? Ð?c, Ho Chi Minh City, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+57,Khu C Tru?ng d?i h?c su ph?m k? thu?t TP.HCM,"Khu C, Linh Chi?u,qu?n Th? Ð?c, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+58,Tru?ng d?i h?c su ph?m k? thu?t TP.HCM,"484 Lê Van Vi?t, Tang Nhon Phú A, Qu?n 9, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+59,Tru?ng Ð?i h?c Su ph?m Thành ph? H? Chí Minh,"280  An Duong Vuong, Phu?ng 4, Qu?n 5, Thành ph? H? Chí Minh 720000, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+60,Tru?ng Ð?i h?c Su ph?m Thành ph? H? Chí Minh," An Duong Vuong, Phu?ng 4, Qu?n 5, Thành ph? H? Chí Minh 720000, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+61,Ð?i h?c Su ph?m TP.HCM - Co s? 2,"222 Ð. Lê Van S?, Phu?ng 14, Qu?n 3, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+62,Tru?ng d?i h?c th? d?c th? thao TP.HCM,"VQCW+FG2, Phu?ng Linh Trung, qu?n Th? Ðúc ,Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+63,Tru?ng d?i h?c Su ph?m Th? d?c Th? thao TP.HCM,"639 Ð. Nguy?n Trãi, Phu?ng 11, Qu?n 5, Thành ph? H? Chí Minh 72000",H? Chí Minh,40:00.0,40:00.0,1
+64,,,,,,
+Tru?ng d?i h?cc Su Ph?m TDTT TP. HCM,,,,,,
+,"Unnamed Road, Nhon Ð?c, qu?n Nhà Bè, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1,
+65,Can Tin Tru?ng Ð?i H?c Su Ph?m Th? D?c Th? Thao Tp.Hcm,"274 Tr?n Hung Ð?o, Phu?ng 10, Qu?n 5, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+66,KTX Tru?ng Ð?i H?c Su Ph?m Th? D?c Th? Thao Tp.Hcm,"VQFW+4W8, Phu?ng Linh Trung, qu?n Th? Ð?c, Ho Chi Minh City, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+67,Tru?ng Ð?i H?c Su Ph?m Tp.Hcm - Nhà Luy?n T?p & Thi d?u Tdtt,"221 Ð. Nguy?n Van C?, Phu?ng 4, Qu?n 5, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+68,"Nhà h?c th? thao da nang, Ð?i h?c KHXH&NV TPHCM","Phu?ng Linh Trung, qu?n Th? Ð?c, Ho Chi Minh City",H? Chí Minh,40:00.0,40:00.0,1
+69,"Tru?ng d?i h?c th?y l?i, Campus 2","2 Ð. Tru?ng Sa, Phu?ng 17, qu?n Bình Th?nh, Thành ph? H? Chí Minh 70000",H? Chí Minh,40:00.0,40:00.0,1
+70,Tru?ng d?i h?c Tr?n Ð?i Nghia,"189 Nguy?n Oanh, Phu?ng 10, qu?n Gò V?p, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+71,Tru?ng d?i h?c Tài chính - Marketing,"27 Tân M?, Tân Thu?n Tây, Qu?n 7, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+72,Tru?ng d?i h?c Tài chính - Marketing,"2C Ð. Ph? Quang, Phu?ng 2, qu?n Tân Bình, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+73,Tru?ng d?i h?c Tài chính - Marketing,"2C Ð. Ph? Quang, Phu?ng 2, qu?n Tân Bình, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+74,Tru?ng d?i h?c Tài chính - Marketing,"B2, 1A Ð. S? 385, Tang Nhon Phú A, qu?n Th? Ð?c, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+75,Tru?ng d?i h?c Tài chính - Marketing (Co s? Long Tru?ng),"306 Nguy?n Tr?ng Tuy?n, Phu?ng 1, qu?n Tân Bình, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+76,Tru?ng d?i h?c Tài chính - Marketing (Co s? Long Tru?ng),"306 Võ Van Hát, Long Tru?ng, Qu?n 9, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+77,Tru?ng d?i h?c tài nguyên - môi tru?ng TP.HCM,"236 Ð. Lê Van S?, Phu?ng 1, qu?n Tân Bình, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+78,Tru?ng d?i h?c tài nguyên - môi tru?ng ,"91 Nguy?n Chí Thanh, Phu?ng 9, Qu?n 5, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,40:00.0,40:00.0,1
+79,Tru?ng d?i h?c Tôn Ð?c Th?ng,"19 Ð. Nguy?n H?u Th?, Tân Hung, Qu?n 7, Thành ph? H? Chí Minh",H? Chí Minh,40:00.0,40:00.0,1
+80,tru?ng d?i h?c Vi?t Ð?c VGU,"10 Hoàng Di?u, Phu?ng 10, qu?n Phú Nhu?n, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+81,Tru?ng Ð?i h?c Van hóa TP.HCM - Co s? 1,"51 Ð. Qu?c Huong, Th?o Ði?n, Qu?n 2, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+82,Tru?ng Ð?i h?c Van hóa TP.HCM - Co s? 2,"288 Ð? Xuân H?p, Phu?c Long B, Qu?n 9, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,41:00.0,41:00.0,1
+83,Tru?ng Ð?i H?c Y Du?c Tp.H? Chí Minh,"217 Ð. H?ng Bàng, Phu?ng 11, Qu?n 5, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+84,Tru?ng Ð?i H?c Y Du?c Tp.H? Chí Minh,"215 Ð. H?ng Bàng, Phu?ng 11, Qu?n 5, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+85,B?nh vi?n Ð?i h?c Y Du?c TP.HCM- Co s? 2,"201 Ð. Nguy?n Chí Thanh, Phu?ng 12, Qu?n 5, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+86,Van phòng doàn TN - H?i SV d?i h?c Y Du?c Tp. HCM,"217 H?ng Bàng, Phu?ng 11, Qu?n 5, H? Chí Minh, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+87,Khoa Du?c - Ð?i h?c Y Du?c TP.HCM,"43 Ð. Ðinh Tiên Hoàng, B?n Nghé, Qu?n 1, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+88,Tru?ng d?i h?c Ph?m Ng?c Th?ch,"2 Ð. Duong Quang Trung, Phu?ng 12, Qu?n 10, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+89,Khoa Y t? công c?ng - Tru?ng Ð?i h?c Y khoa Ph?m Ng?c Th?ch,"01 Ð. Duong Quang Trung, Phu?ng 12, Qu?n 10, Thành ph? H? Chí Minh 72500",H? Chí Minh,41:00.0,41:00.0,1
+90,Phòng Khám Ða Khoa - Ð?i H?c Y Khoa Ph?m Ng?c Th?ch,"461 Ð. Su V?n H?nh, Phu?ng 12, Qu?n 10, Thành ph? H? Chí Minh",,,,
+,H? Chí Minh,41:00.0,41:00.0,1,,
+91,Tru?ng d?i h?c Ph?m Ng?c Th?ch - Co s? 2,"PH5H+JH7, Tân Kiên, qu?n Bình Chánh, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+92,Khoa Y - ÐHQG TP.HCM,"16/40 QL1A, Phu?ng Linh Trung, qu?n Th? Ð?c, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+93,Nhà Gi?i ph?u Khoa Y - ÐHQG TP.HCM,"Phòng th?c hành: Vi?t Nam, Nhà Ði?u hành ÐHQG-HCM KP. 6, P. Linh Trung, qu?n Th? Ð?c,TP.HCM, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+94,Tru?ng Khoa h?c Chính tr? và Hành chính ÐHQG TP.HCM,"Headquarter of VNU-HCM, Phòng 707, khu ph? 6, qu?n Th? Ð?c, Thành ph? H? Chí Minh 70000",H? Chí Minh,41:00.0,41:00.0,1
+95,H?c vi?n Cán b? Thành ph? H? Chí Minh,"324 Chu Van An, Phu?ng 12, qu?n Bình Th?nh, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+96,H?c vi?n Cán b? Thành ph? H? Chí Minh - co s? 2,"146 h?m 146 Võ Th? Sáu, Phu?ng 8, Qu?n 3, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+97,H?c vi?n công ngh? Buu Chính Vi?n Thông co s? TP.HCM,"97 Man Thi?n, Hi?p Phú, qu?n 9, Thành ph? H? Chí Minh 70000, Vietnam",H? Chí Minh,41:00.0,41:00.0,1
+98,H?c vi?n hàng không Vi?t Nam," 104 Ð. Nguy?n Van Tr?i, Phu?ng 8, qu?n Phú Nhu?n, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+99,H?c vi?n hàng không Vi?t Nam," 239 Nguy?n Van Tr?i, Phu?ng 8, qu?n Phú Nhu?n, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+100,H?c vi?n Hành chính Qu?c gia - Phân hi?u TP.HCM," 10 Ð. 3 Tháng 2, Phu?ng 12, Qu?n 10, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+101,Phân vi?n H?c vi?n Hành chính Qu?c Gia t?i Thành ph? H? Chí Minh,,,,,
+,"181 Ð. Lê Ð?c Th?, Phu?ng 5, qu?n Gò V?p, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1,
+102,H?c Vi?n K? Thu?t M?t Mã - Mi?n Nam (KMP),"17A Ð. C?ng Hòa, Phu?ng 4, qu?n Tân Bình, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+103,H?c Vi?n K? Thu?t M?t Mã,"71 Ð. C?ng Hòa, Phu?ng 4, qu?n Tân Bình, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+105,H?c vi?n công ngh? Buu Chính Vi?n Thông co s? TP.HCM,"11 Nguy?n Ðình Chi?u, Ða Kao, Qu?n 1, Thành ph? H? Chí Minh 700000, Vietnam",H? Chí Minh,41:00.0,41:00.0,1
+125,H?c vi?n âm nh?c và trình di?n ngh? thu?t soul,"125 Pasteur, Phu?ng 6, Qu?n 3, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+126,H?c Vi?n Thanh Thi?u Niên VN,"261 Hoàng H?u Nam, Long Th?nh M?, Qu?n 9, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+127,Tru?ng d?i h?c Công ngh? TP.HCM - HUTECH,"475A Ð. Ði?n Biên Ph?, Phu?ng 25, qu?n Bình Th?nh, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+128,Tru?ng d?i h?c Công ngh? TP.HCM - HUTECH - Ung Van Khiem Campus,"36 Ung Van Khiêm, Phu?ng 25, qu?n Bình Th?nh, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+129,Tru?ng d?i h?c Công ngh? TP.HCM TP.HCM (HUTECH) - HiTech Park Campus,"Khu Công ngh? cao TP.HCM, Ðu?ng D1, P.Long Thành M?, Long Thành M?, Qu?n 9, Thành ph? H? Chí Minh, Vietnam",H? Chí Minh,41:00.0,41:00.0,1
+130,Tru?ng Ð?i H?c Công Ngh? Sài Gòn,"180 Ð. Cao L?, Phu?ng 4, Qu?n 8, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+131,Tru?ng d?i h?c Gia Ð?nh,"187 Hoàng Van Th?, Phu?ng 8, qu?n Phú Nhu?n, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+132,GDU - TRU?NG Ð?I H?C GIA Ð?NH TPHCM,,,,,
+,"371 Nguy?n Ki?m, Phu?ng 3, qu?n Gò V?p, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1,
+133,Tru?ng d?i h?c Van Lang,"45 Nguy?n Kh?c Nhu, Phu?ng Cô Giang, Qu?n 1, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+134,Tru?ng d?i h?c Van Lang - Co s? 2,"233A Ð. Phan Van Tr?, Phu?ng 11, qu?n Bình Th?nh, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+135,Tru?ng Ð?i h?c FPT,"Lô E2a-7, Ðu?ng D1, Ð. D1, Long Th?nh M?, qu?n Th? Ð?c, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+136,Trung tâm Ðào t?o và Nghiên c?u Công ngh? Ð?i h?c FPT,"Công Ngh? Cao Khu, Long Th?nh M?, Qu?n 9, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+137,Khoa Kinh doanh FPT (FSB) - Ð?i h?c FPT," 5 Nguy?n Gia Thi?u, Phu?ng 6, Qu?n 3, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+138,Tru?ng cao d?ng FPT,"778/B1 Nguy?n Ki?m, phu?ng 04, qu?n Phú Nhu?n, Thành ph? H? Chí Minh 700000, Vietnam",H? Chí Minh,41:00.0,41:00.0,1
+139,Greenwich Vi?t Nam,"20 Ð. C?ng Hòa, Phu?ng 12, qu?n Tân Bình, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+142,FPT Arena Multimedia,"590 Ð. Cách M?ng Tháng 8, Phu?ng 11, Qu?n 3, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+149,Tru?ng Ð?i h?c Hoa Sen,"8 Nguy?n Van Tráng, Phu?ng B?n Thành, Qu?n 1, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+150,Tru?ng Ð?i h?c Hoa Sen,"107 Ð. Cao Th?ng, Phu?ng 3, Qu?n 3, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+151,Tru?ng Ð?i h?c Hoa Sen - Co s? Thành Thái,"7/1 Ð. Thành Thái, Phu?ng 14, Qu?n 10, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+152,Tru?ng Ð?i h?c Hoa Sen - Co s? Quang Trung,"Ðu?ng s? 5, CVPM, Quang Trung, Phu?ng 14, Qu?n 12, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+153,Tru?ng Ð?i h?c Hùng Vuong TP.HCM,"736 Ð. Nguy?n Trãi, Phu?ng 11, Qu?n 5, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+154,Tru?ng Ð?i h?c Hùng Vuong TP.HCM,"28-30 Ð. Ngô Quy?n, Phu?ng 6, Qu?n 5, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+156,Tru?ng Ð?i h?c Kinh t? Tài chính TP.HCM (UEF) - Co s? 141,"145 Ð. Ði?n Biên Ph?, Phu?ng 15, qu?n Bình Th?nh, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+157,Tru?ng Ð?i h?c Kinh t? Tài chính TP.HCM,"C?t Ðèn, 156 Ð. Nguy?n Van Linh, Bình Hung,qu?n Bình Chánh, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+158,Tru?ng Ð?i h?c Kinh t? Tài chính TP.HCM,"11 Hoàng Van Th?, Phu?ng 15, qu?n Phú Nhu?n, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+159,Tru?ng Ð?i h?c Kinh t? Tài chính TP.HCM,"300A Nguy?n T?t Thành, Phu?ng 13, Qu?n 4, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+160,Tru?ng Ð?i h?c Kinh t? Tài chính TP.HCM,"145 Ð. Ði?n Biên Ph?, Phu?ng 15, Bình Th?nh, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+161,Khoa Kinh t? - Tài chính,"155 Ð. Su V?n H?nh, Phu?ng 12, Qu?n 10, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+162,Tru?ng Ð?i h?c Ngo?i ng? - Tin h?c Thành ph? H? Chí Minh (HUFLIT),"828 Ð. Su V?n H?nh, Phu?ng 12, Qu?n 10, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+163,Tru?ng Ð?i h?c Ngo?i ng? - Tin h?c Thành ph? H? Chí Minh (HUFLIT),"10 QL22, Tân Xuân, Hóc Môn, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+165,Khoa Du l?ch và Khách s?n - HUFLIT,"M4 Th?t Son, Cu xá B?c H?i, Qu?n 10, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+166,Co s? Tru?ng Son tru?ng Ð?i h?c Ngo?i ng? - Tin h?c TP.HCM (HUFLIT),"32 Tru?ng Son, Phu?ng 2, qu?n Tân Bình, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+169,Tru?ng ngo?i ng? tin h?c sài gòn,"QMFJ+5GF, Ðu?ng S? 2 Cxdt, Phu?ng 4, Qu?n 3, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+170,Tru?ng ngo?i ng? tin h?c Infoworld,"43 Ð. Nguy?n Thông, Võ Th? Sáu, Qu?n 3, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+173,Tru?ng Ð?i h?c Nguy?n T?t Thành,"300A Nguy?n T?t Thành, Phu?ng 13, Qu?n 4, Thành ph? H? Chí Minh 70000",H? Chí Minh,41:00.0,41:00.0,1
+174,Tru?ng Ð?i H?c Qu?c T? H?ng Bàng,"215 Ð. Ði?n Biên Ph?, Phu?ng 15, qu?n Bình Th?nh, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+176,Tru?ng Ð?i H?c Qu?c T? H?ng Bàng - Tan Phu Office,"120 Hòa Bình, Hoà Thanh, qu?n Tân Phú, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+177,Ð?i h?c Qu?c t? - ÐHQG TP.HCM,"khu ph? 6, qu?n Th? Ð?c, Ho Chi Minh City",H? Chí Minh,41:00.0,41:00.0,1
+178,Ð?i h?c Qu?c t? Sài Gòn,"8c T?ng H?u Ð?nh, Th?o Ði?n, qu?n 2, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+179,Tru?ng Ð?i h?c Van Hi?n,"665-667-669 Ð. Ði?n Biên Ph?, Phu?ng 1, Qu?n 3, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+180,Tru?ng Ð?i h?c Van Hi?n - Co s? 3,"613 Ð. Âu Co, Phú Trung, qu?n Tân Phú, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+181,Tru?ng Ð?i h?c Van Hi?n,"VM6G+C5Q, Th?nh Xuân, Qu?n 12, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+182,Ð?i h?c RMIT Vi?t Nam - co s? Nam Sài Gòn," 702 Ð. Nguy?n Van Linh, Tân Hung, Qu?n 7, Thành ph? H? Chí Minh 700000",H? Chí Minh,41:00.0,41:00.0,1
+183,Tru?ng Ð?i H?c Fulbright Vi?t Nam,"105 Tôn D?t Tiên, Tân Phú, Qu?n 7, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
+184,Tru?ng Ð?i h?c Swinburne - Co S? HCM,"A35 B?ch Ð?ng, Phu?ng 2, qu?n Tân Bình, Thành ph? H? Chí Minh",H? Chí Minh,41:00.0,41:00.0,1
