@@ -15,7 +15,7 @@ def home(request):
     # search
     if 'search_query' in request.GET and request.GET['search_query'].strip():
         search_query = request.GET['search_query']
-        name_school = SchoolDetail.objects.filter(name__icontainsw=search_query)
+        name_school = SchoolDetail.objects.filter(name__icontains=search_query)
         geo_code_count = name_school.count
         # print(name_school)
         for i in name_school:
