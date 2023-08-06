@@ -1,4 +1,4 @@
-gis-system-university-HCM
+GIS system of university at HCM
 -------------------------
 
 how to run
